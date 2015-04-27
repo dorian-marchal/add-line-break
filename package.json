@@ -1,0 +1,16 @@
+{
+  "name": "add-line-break",
+  "main": "./lib/add-line-break",
+  "version": "0.1.0",
+  "description": "Commands to add line break before/after a selection",
+  "activationCommands": {
+    "atom-workspace": "add-line-break:toggle"
+  },
+  "repository": "https://github.com/atom/add-line-break",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle add-line-break'
+      'command': 'add-line-break:toggle'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'add-line-break'
+      'submenu': [
+        {
+          'label': 'Toggle'
+          'command': 'add-line-break:toggle'
+        }
+      ]
+    ]
+  }
+]
