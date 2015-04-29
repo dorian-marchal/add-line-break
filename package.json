@@ -3,9 +3,6 @@
   "main": "./lib/add-line-break",
   "version": "0.1.0",
   "description": "Commands to add line break before/after a selection",
-  "activationCommands": {
-    "atom-workspace": "add-line-break:toggle"
-  },
   "repository": "https://github.com/atom/add-line-break",
   "license": "MIT",
   "engines": {

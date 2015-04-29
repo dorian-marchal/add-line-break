@@ -1,5 +1,6 @@
 # add-line-break package
 
-A short description of your package.
+Add two commands to add lines before and after a selected block.
+Useful to quickly format code (HTML, for example)
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+![Example Gif](https://cloud.githubusercontent.com/assets/6225979/7402200/5ea68878-eeca-11e4-8bdd-83474cd4190a.gif)
